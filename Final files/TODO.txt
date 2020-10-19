@@ -1,0 +1,6 @@
+Download right file (TestDownloadModule::TestDownload())
+Launch right file (ShellLauncherModule::ShellLauncher())
+
+Crypt (Automatization::Auto_Close())
+Uncrypt(Automatization::Auto_Open())
+Uncomment every time it's necessary (Whole file)
